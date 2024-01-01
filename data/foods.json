@@ -1,0 +1,124 @@
+{
+    "foods": [
+        {
+            "id": 1,
+            "name": "Apple",
+            "calories": 52,
+            "grams": 100
+        },
+        {
+            "id": 2,
+            "name": "Banana",
+            "calories": 74,
+            "grams": 100
+        },
+        {
+            "id": 3,
+            "name": "Chicken Breast (cooked)",
+            "calories": 165,
+            "grams": 100
+        },
+        {
+            "id": 4,
+            "name": "Broccoli",
+            "calories": 55,
+            "grams": 100
+        },
+        {
+            "id": 5,
+            "name": "Salmon (grilled)",
+            "calories": 206,
+            "grams": 100
+        },
+        {
+            "id": 6,
+            "name": "Brown Rice (cooked)",
+            "calories": 215,
+            "grams": 100
+        },
+        {
+            "id": 7,
+            "name": "Spinach (raw)",
+            "calories": 23,
+            "grams": 100
+        },
+        {
+            "id": 8,
+            "name": "Oatmeal",
+            "calories": 389,
+            "grams": 100
+        },
+        {
+            "id": 9,
+            "name": "Almonds",
+            "calories": 575,
+            "grams": 100
+        },
+        {
+            "id": 10,
+            "name": "Carrot",
+            "calories": 41,
+            "grams": 100
+        },
+        {
+            "id": 11,
+            "name": "Yogurt (plain, low-fat)",
+            "calories": 77,
+            "grams": 100
+        },
+        {
+            "id": 12,
+            "name": "Egg (boiled)",
+            "calories": 136,
+            "grams": 100
+        },
+        {
+            "id": 13,
+            "name": "Quinoa (cooked)",
+            "calories": 120,
+            "grams": 100
+        },
+        {
+            "id": 14,
+            "name": "Orange",
+            "calories": 43,
+            "grams": 100
+        },
+        {
+            "id": 15,
+            "name": "Avocado",
+            "calories": 160,
+            "grams": 100
+        },
+        {
+            "id": 16,
+            "name": "Greek Yogurt (plain, non-fat)",
+            "calories": 59,
+            "grams": 100
+        },
+        {
+            "id": 17,
+            "name": "Sweet Potato (baked)",
+            "calories": 86,
+            "grams": 100
+        },
+        {
+            "id": 18,
+            "name": "Tomato",
+            "calories": 18,
+            "grams": 100
+        },
+        {
+            "id": 19,
+            "name": "Black Beans (cooked)",
+            "calories": 132,
+            "grams": 100
+        },
+        {
+            "id": 20,
+            "name": "Whole Wheat Bread",
+            "calories": 277,
+            "grams": 100
+        }
+    ]
+}
